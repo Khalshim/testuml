@@ -2,8 +2,12 @@
 
 [![CI](https://github.com/Khalshim/testuml/actions/workflows/blank.yml/badge.svg)](https://github.com/Khalshim/testuml/actions/workflows/blank.yml)
 
+
+[![CI status](https://github.com/Khalshim/testuml/actions/workflows/blank.yml/badge.svg?event=status)](https://github.com/Khalshim/testuml/actions/workflows/blank.yml)
+
 # Shield :
 
+[!Shieldtry](https://img.shields.io/endpoint?url=https://github.com/Khalshim/testuml/actions/workflows/blank.yml&style=plastic)
 
 
 # UML TEST :
