@@ -1,6 +1,9 @@
 # CI
 
-[![CI](https://github.com/Khalshim/testuml/actions/workflows/blank.yml/badge.svg)](https://github.com/Khalshim/testuml/actions/workflows/blank.yml)
+[![CI][ci-badge]][ci-badge-url]
+
+[ci-badge]: https://github.com/Khalshim/testuml/actions/workflows/blank.yml/badge.svg
+[ci-badge-url]: https://github.com/Khalshim/testuml/actions/workflows/blank.yml
 
 # Shield :
 
