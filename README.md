@@ -2,13 +2,19 @@
 
 [![CI](https://github.com/Khalshim/testuml/actions/workflows/blank.yml/badge.svg)](https://github.com/Khalshim/testuml/actions/workflows/blank.yml)
 
-
-[![CI status](https://github.com/Khalshim/testuml/actions/workflows/blank.yml/badge.svg?event=status)](https://github.com/Khalshim/testuml/actions/workflows/blank.yml)
-
 # Shield :
 
-![Shieldtry](https://img.shields.io/github/workflow/status/Khalshim/testuml/blank?style=plastic)
 
+
+![License](https://img.shields.io/github/license/Khalshim/testuml?style=plastic)
+
+![Release](https://img.shields.io/github/v/release/Khalshim/testuml?style=plastic)
+
+![Tag](https://img.shields.io/github/v/tag/Khalshim/testuml?style=plastic)
+
+![Filenumber](https://img.shields.io/github/directory-file-count/Khalshim/testuml?style=plastic)
+
+![Linenumber](https://img.shields.io/tokei/lines/github/Khalshim/testuml?style=plastic)
 
 # UML TEST :
 
