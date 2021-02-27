@@ -7,7 +7,7 @@
 
 # Shield :
 
-![Shieldtry](https://img.shields.io/github/workflow/status/khalshim/testuml/blank)
+![Shieldtry](https://img.shields.io/github/workflow/status/khalshim/testuml/blank?style=plastic)
 
 
 # UML TEST :
