@@ -8,7 +8,7 @@
 
 ![License](https://img.shields.io/github/license/Khalshim/testuml?style=plastic)
 
-![Release](https://img.shields.io/github/v/release/Khalshim/testuml?style=plastic)
+![Release](https://img.shields.io/github/v/release/Khalshim/testuml?style=plastic) 
 
 ![Tag](https://img.shields.io/github/v/tag/Khalshim/testuml?style=plastic)
 
