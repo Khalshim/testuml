@@ -22,3 +22,17 @@
 # UML TEST :
 
 ![with Andrea's tip](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Khalshim/testuml/main/docs/diagrams/mytest_uml.uml)
+
+
+
+## Miscellaneous <a name="miscellaneous"></a>
+### Sonarqube
+#### Installing sonarqube server locally
+* Connect to a VM
+* Install docker and docker-compose
+* Copy <code>sonarqube-docker-compose.yml</code> file
+* type <code>docker-compose -f sonarqube-docker-compose.yml up</code>
+* Connect to <code>\<VM_IP\>:9000</code> and follow instructions
+#### To generate sonarqube report :
+* Checkout <code>main</code> branch
+Don't scan another branch than main as the community version doesn't handle multiple branch scan.
