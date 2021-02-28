@@ -22,3 +22,8 @@
 # UML TEST :
 
 ![with Andrea's tip](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Khalshim/testuml/main/docs/diagrams/mytest_uml.uml)
+
+
+![Packages Overview](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Pytown-Citizen/pytown_core/main/docs/diagrams/general.uml)
+
+
