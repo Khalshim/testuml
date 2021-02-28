@@ -25,6 +25,8 @@
 
 ![wtf](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Khalshim/testuml/main/docs/diagrams/general.uml)
 
+![Packages Overview](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Pytown-Citizen/pytown_core/main/docs/diagrams/general.uml)
+
 
 ## Miscellaneous <a name="miscellaneous"></a>
 ### Sonarqube
